@@ -1,2 +1,2 @@
 # LittleProject
-# NewLineAdded
+NewLineAdded
